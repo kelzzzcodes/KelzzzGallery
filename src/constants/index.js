@@ -3,12 +3,12 @@ import {AiOutlineLinkedin, AiOutlineInstagram,AiOutlineGithub} from 'react-icons
 
 export const footerData=[
     {
-        icon: <AiOutlineLinkedin/>,
+        icon: <AiOutlineLinkedin className='text-blue-900'/>,
         label: 'Linkedin',
         link: '/linkedin'
     },
      {
-        icon: <AiOutlineInstagram/>,
+        icon: <AiOutlineInstagram className='text-red-700'/>,
         label: 'Instagram',
         link: '/instagram'
     },

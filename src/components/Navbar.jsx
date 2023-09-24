@@ -28,7 +28,7 @@ const Navbar = () => {
       <div className=" mr-2 md:mr-12">
         <div className="flex flex-col items-center justify-center ">
           {user ? (
-            <Link to={`/landing`}>
+            <Link to={`/`}>
               <button onClick={handleLogOut} className="font-bold  py-2 px-4 text-black hover:text-white hover:bg-indigo-800 rounded-md">
                 Log out
               </button>

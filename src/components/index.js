@@ -6,4 +6,5 @@ import SignIn from "./SignIn";
 import SignUp from "./SignUp";
 import UploadForm from "./UploadForm";
 
-export{Navbar,Banner,Footer,ImageCard, SignIn,SignUp,UploadForm}
+
+export{Navbar,Banner,Footer,ImageCard, SignIn,SignUp,UploadForm,};
